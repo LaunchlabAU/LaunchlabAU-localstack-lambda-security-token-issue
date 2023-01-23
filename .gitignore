@@ -1,0 +1,5 @@
+.venv
+.mypy_cache
+.pytest_cache
+cdk.out
+__pycache__
